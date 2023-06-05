@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Framework_Core
+namespace FrameworkCore
 {
     public class Driver
     {

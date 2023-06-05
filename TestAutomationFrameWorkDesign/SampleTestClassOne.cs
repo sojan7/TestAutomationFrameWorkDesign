@@ -1,4 +1,4 @@
-﻿using Framework_Core;
+﻿using FrameworkCore;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
